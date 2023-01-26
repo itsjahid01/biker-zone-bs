@@ -1,0 +1,23 @@
+
+.biker-btn-color{
+    background-color: #ed065b6e !important;
+}
+.bike-card-shadow{
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15) !important;
+}
+.client-img{
+    width: 149px;
+    height: 149px;
+    margin: 40px auto;
+}
+.rating-icon{
+    width: 18px;
+    height: 18px;
+}
+.question-img{
+    width: 400px;
+    height: 450px;
+}
+footer{
+    background: #0B0D17;
+}
